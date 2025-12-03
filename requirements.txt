@@ -1,0 +1,9 @@
+Django>=4.2,<5
+djangorestframework>=3.14
+psycopg2-binary
+celery>=5.3
+redis
+pytest
+pytest-django
+pytest-mock
+python-dotenv
